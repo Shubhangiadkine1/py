@@ -1,0 +1,1 @@
+def average(a,b,c)

@@ -1,0 +1,3 @@
+a = "hello World"
+
+print*

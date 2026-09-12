@@ -1,0 +1,3 @@
+a = int(input("enter your number"))
+
+pr

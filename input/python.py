@@ -1,0 +1,3 @@
+print("Hello World", 'Subhh', sep =",")
+print("Welcome to the page", "Hello" ,sep="/", end="...")
+print("Shubhangi Adkine")
